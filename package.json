@@ -1,0 +1,18 @@
+{
+  "name": "optic-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@effect/data": "^0.12.2",
+    "@effect/schema": "^0.19.3",
+    "@fp-ts/optic": "^0.7.0",
+    "typescript": "^5.0.4"
+  }
+}
